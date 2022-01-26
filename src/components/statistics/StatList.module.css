@@ -1,0 +1,20 @@
+.statList {
+    width: 250px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin:0;
+    padding:0;
+    margin: 0 auto;
+    
+
+}
+.item {
+    border: 1px solid rgb(212, 223, 233);
+    font-size: 13px;
+    padding: 5px 0 5px 0;
+    text-align: center;
+}
+.label {
+    font-size: 10px;
+}

@@ -1,0 +1,30 @@
+.stats {
+  width: 250px;
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.item {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid rgb(212, 223, 233);
+    width: 83px;
+}
+.label {
+ font-size: 12px;
+ color: grey;
+}
+.quantity {
+  font-size: 13px;
+  font-weight: bold;
+
+}
